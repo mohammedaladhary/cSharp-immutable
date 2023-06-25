@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\c#-Immutable\bin\Debug\net6.0\c#-Immutable.exe
+C:\Users\TRA\source\repos\c#-Immutable\bin\Debug\net6.0\c#-Immutable.deps.json
+C:\Users\TRA\source\repos\c#-Immutable\bin\Debug\net6.0\c#-Immutable.runtimeconfig.json
+C:\Users\TRA\source\repos\c#-Immutable\bin\Debug\net6.0\c#-Immutable.dll
+C:\Users\TRA\source\repos\c#-Immutable\bin\Debug\net6.0\c#-Immutable.pdb
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.AssemblyInfo.cs
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.dll
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\refint\c#-Immutable.dll
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.pdb
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\c#-Immutable.genruntimeconfig.cache
+C:\Users\TRA\source\repos\c#-Immutable\obj\Debug\net6.0\ref\c#-Immutable.dll
